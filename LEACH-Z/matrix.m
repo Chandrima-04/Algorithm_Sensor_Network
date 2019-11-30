@@ -1,0 +1,10 @@
+figure;
+plot(10,2,'*');
+hold on;
+plot(11,3,'*');
+hold on;
+plot(21,9,'*');
+hold on;
+plot(8,2,'*');
+hold on;
+plot(9,9,'*');
